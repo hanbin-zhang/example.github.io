@@ -1,4 +1,4 @@
 # example.github.io
 
-Jusr a example
+Just an example
 Click here to start the exercise: [Start Exercise](index.html)
